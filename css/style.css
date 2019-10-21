@@ -3,4 +3,18 @@
     color: rgb(234, 238, 245);
     text-align: center;
     height: 25%;
+<<<<<<< HEAD
+=======
+}
+
+.cuerpo {
+    background-color: #E2ECFA;
+    color: black;
+    text-align: center;
+}
+
+.pie {
+    background-color: rgb(26, 24, 24);
+    text-align: left;
+>>>>>>> footer
 }
