@@ -6,7 +6,13 @@
 }
 
 .cuerpo {
-    background-color: #E2ECFA;
+    background-color: rgb(253, 253, 253);
     color: black;
     text-align: center;
+    display: block;
+    height: 500px;
+}
+
+.titulo {
+    color: black;
 }
