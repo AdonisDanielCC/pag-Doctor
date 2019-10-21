@@ -1,0 +1,17 @@
+.cabecera {
+    background-color: rgb(62, 134, 235);
+    color: rgb(234, 238, 245);
+    text-align: center;
+    height: 25%;
+}
+
+.cuerpo {
+    background-color: #E2ECFA;
+    color: black;
+    text-align: center;
+}
+
+.pie {
+    background-color: rgb(26, 24, 24);
+    text-align: left;
+}
