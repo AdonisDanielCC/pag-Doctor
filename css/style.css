@@ -7,9 +7,10 @@
 }
 
 .cuerpo {
-    background-color: #E2ECFA;
+    background-color: rgb(253, 253, 253);
     color: black;
     text-align: center;
+<<<<<<< HEAD
 }
 
 .pie {
@@ -18,4 +19,12 @@
     height: 20%;
     background-color: black;
     color: beige;
+=======
+    display: block;
+    height: 500px;
+}
+
+.titulo {
+    color: black;
+>>>>>>> body
 }
