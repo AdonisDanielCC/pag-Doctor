@@ -1,30 +1,54 @@
 .cabecera {
-    background-color: rgb(62, 134, 235);
     color: rgb(234, 238, 245);
     text-align: center;
     height: 25%;
-    display: flex;
+}
+
+.textoEncima {
+    position: absolute;
+    text-align: center;
+    top: 5%;
+    left: 25%;
+    font-size: 25px;
+}
+
+.titulo_h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.favicon {
+    height: 100px;
+    width: 350px;
+    background-color: rgba(70, 133, 236, 0.164);
+    position: absolute;
+    top: 5%;
+    left: 80%;
 }
 
 .cuerpo {
     background-color: rgb(253, 253, 253);
     color: black;
     text-align: center;
-<<<<<<< HEAD
+}
+
+.titulo_h3 {
+    font-size: 50px;
+    color: rgb(63, 60, 60);
+    font-family: 'DM Serif Display', serif;
+}
+
+.conteinerBody {
+    height: 600px;
+    background-color: rgb(62, 134, 235);
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .pie {
+    display: flex;
     background-color: rgb(26, 24, 24);
     text-align: left;
-    height: 20%;
+    height: 100px;
     background-color: black;
     color: beige;
-=======
-    display: block;
-    height: 500px;
-}
-
-.titulo {
-    color: black;
->>>>>>> body
 }
