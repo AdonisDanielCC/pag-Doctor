@@ -42,7 +42,14 @@
     font-family: 'DM Serif Display', serif;
 }
 
+.seccion {
+    height: 600px;
+    width: 200px;
+    background-color: wheat;
+}
+
 .conteinerBody {
+    align-content: initial;
     height: 400px;
     width: 300px;
     background-color: rgb(62, 134, 235);
