@@ -1,8 +1,9 @@
 .cabecera {
-    color: rgb(234, 238, 245);
+    background-color: rgba(29, 104, 210);
+    color: rgba(191, 204, 226, 0.904);
     text-align: center;
     height: 25%;
-    display: flex;
+    display: block;
     padding: 15px;
 }
 
@@ -29,6 +30,7 @@
 }
 
 .cuerpo {
+    display: block;
     background-color: rgb(253, 253, 253);
     color: black;
     text-align: center;
@@ -46,10 +48,11 @@
     height: 600px;
     width: 200px;
     background-color: wheat;
+    margin: 5px;
+    padding: 5px;
 }
 
 .conteinerBody {
-    align-content: initial;
     height: 400px;
     width: 300px;
     background-color: rgb(62, 134, 235);
