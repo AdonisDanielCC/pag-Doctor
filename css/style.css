@@ -6,3 +6,7 @@
 .contacto {
     border: rgb(235, 85, 85) 5px solid;
 }
+
+.containerBody {
+    display: inline-block;
+}
