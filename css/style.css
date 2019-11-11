@@ -1,12 +1,79 @@
 .cabecera {
     border: black 5px solid;
-    display: flex;
+    display: flexbox;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .contacto {
     border: rgb(235, 85, 85) 5px solid;
 }
 
-.containerBody {
+.conteinerBody {
     display: inline-block;
+    border: black 5px solid;
+}
+
+.conteiner1 {
+    border: black 5px solid;
+}
+
+.conteiner2 {
+    border: black 5px solid;
+    width: 50%;
+}
+
+.conteiner3 {
+    border: black 5px solid;
+    width: 50%;
+}
+
+.conteiner23 {
+    border: red 5px solid;
+    display: flex;
+}
+
+.imagenesDeContenedor {
+    border: black 5px solid;
+    height: 300px;
+    width: 99.5%;
+}
+
+.imagenes1y2 {
+    display: flex;
+}
+
+.imagenes3y4 {
+    display: flex;
+}
+
+#imagen1 {
+    border: black 5px solid;
+    height: 145px;
+    width: 50%;
+    background-color: pink;
+}
+
+#imagen2 {
+    border: black 5px solid;
+    height: 145px;
+    width: 50%;
+}
+
+#imagen3 {
+    border: black 5px solid;
+    height: 145px;
+    width: 50%;
+}
+
+#imagen4 {
+    border: rgb(126, 195, 235) 5px solid;
+    height: 145px;
+    width: 50%;
+    background-color: brown
+}
+
+.pie {
+    background-color: yellowgreen;
+    height: 100px;
 }
