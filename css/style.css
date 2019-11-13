@@ -1,8 +1,16 @@
+.cuerpo {}
+
 .cabecera {
+    background-color: rgb(46, 136, 253);
+    color: white;
     border: black 5px solid;
     display: flexbox;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titulo_h3 {
+    text-align: center;
 }
 
 .contacto {
@@ -74,6 +82,7 @@
 }
 
 .pie {
+    border: black 5px solid;
     background-color: yellowgreen;
     height: 100px;
 }
